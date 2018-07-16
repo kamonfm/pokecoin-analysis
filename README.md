@@ -1,4 +1,4 @@
-# pokecoin-evaluation
+# Pokécoin Analysis
 Analysis of each pokécoin package available in the Pokémon GO Android Store.
 
 | Amount | Price (R$) |  Ratio  |
